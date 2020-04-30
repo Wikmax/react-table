@@ -1,4 +1,8 @@
+## Stack I used
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For styling I used styled-component
+Managing table : react-data-table-component
 
 ## Available Scripts
 
