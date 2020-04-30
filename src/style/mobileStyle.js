@@ -10,7 +10,7 @@ export const MobileStyle = styled(DataTable)`
          padding: 0;
          min-width: calc(95vw / 6);
          text-align: left;
-         padding-right: 15px;
+         padding-right: 5px;
       }
       .rdt_Table {
          width: 95vw;

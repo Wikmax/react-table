@@ -8,30 +8,30 @@ export const columns = [
        name: "Company name",
        selector: "name",
        sortable: true,
-       right: true,
+       left: true
     },
     {
        name: "City",
        selector: "city",
        sortable: true,
-       right: true,
+       left: true
     },
     {
        name: "Total income",
        selector: "total_income",
        sortable: true,
-       right: true,
+       left: true
     },
     {
        name: "Average income",
        selector: "average_income",
        sortable: true,
-       right: true,
+       left: true
     },
     {
        name: "Last month income",
        selector: "last_month_income",
        sortable: true,
-       right: true,
+       left: true
     },
  ];
