@@ -63,7 +63,7 @@ export const App = () => {
                } else {
                   zeroInMonth = "0";
                }
-               const month = zeroInMonth + (today.getMonth() + 1);
+               const month = zeroInMonth + (today.getMonth());
                const objYear = obj.date.slice(0, 4);
                const objMonth = obj.date.slice(5, 7);
                if (companie.id === singleCombineObj.id) {
